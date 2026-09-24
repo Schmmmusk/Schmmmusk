@@ -1,7 +1,7 @@
-Konnichiha, I am Schmmmusk
-I'm a coding noob interested in coding
-So be it
-ps: I dunno if the text below is GitHub's template, so I save it to ask others. 
+- Konnichiha, I am Schmmmusk
+- I'm a coding noob interested in coding
+- So be it
+- ps: I dunno if the text below is GitHub's template, so I save it to ask others. 
 ```text
 - 👋 Hi, I’m @Schmmmusk
 - 👀 I’m interested in anything
